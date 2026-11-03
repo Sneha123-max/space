@@ -1,0 +1,11 @@
+# EXAMPLE ONLY - written by hand, NOT run or tested.
+# Needs the "frser-sqlite-datasource" plugin installed in Grafana (see ../../README.md).
+# Change `path` to the real absolute path of data/telemetry.db on your machine.
+apiVersion: 1
+datasources:
+  - name: Telemetry SQLite (SIMULATED data)
+    type: frser-sqlite-datasource
+    access: proxy
+    isDefault: true
+    jsonData:
+      path: C:/dpstar7582/sn/space/07_telemetry_dashboard/data/telemetry.db

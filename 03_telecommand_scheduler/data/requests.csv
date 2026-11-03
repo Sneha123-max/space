@@ -1,0 +1,9 @@
+request_id,start_utc,duration_s,target
+REQ-001,2026-11-10T02:00:00Z,120,Mumbai Coast
+REQ-002,2026-11-10T02:10:00Z,90,Chennai Port
+REQ-003,2026-11-10T02:20:00Z,180,Himalaya Glacier
+REQ-004,2026-11-10T02:22:30Z,60,Delhi Region
+REQ-005,2026-11-10T02:40:00Z,150,Sundarbans Delta
+REQ-006,2026-11-10T03:00:00Z,100,Kutch Salt Flats
+REQ-007,2026-11-10T03:15:00Z,200,Western Ghats
+REQ-008,2026-11-10T03:30:00Z,75,Kochi Harbour

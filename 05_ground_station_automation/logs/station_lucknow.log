@@ -1,0 +1,6 @@
+2026-11-02 05:38:00 INFO  Antenna slewing to AOS position
+2026-11-02 05:40:10 ERROR Receiver synthesiser unlock at AOS
+2026-11-02 05:41:30 INFO  Receiver relocked
+2026-11-02 05:49:00 INFO  LOS reached, pass closed
+2026-11-02 23:50:00 INFO  Carrier lock acquired
+2026-11-03 00:00:30 INFO  LOS reached, pass closed

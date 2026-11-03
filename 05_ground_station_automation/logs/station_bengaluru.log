@@ -1,0 +1,8 @@
+2026-11-02 03:10:00 INFO  Antenna slewing to AOS position
+2026-11-02 03:12:05 INFO  Carrier lock acquired
+2026-11-02 03:15:40 ERROR Telemetry frame CRC mismatch (frame 4821)
+2026-11-02 03:18:00 INFO  Commanding uplink complete
+2026-11-02 03:22:30 INFO  LOS reached, pass closed
+2026-11-02 18:30:20 INFO  Carrier lock acquired
+2026-11-02 18:35:11 MISSED Scheduled command window skipped (operator not ready)
+2026-11-02 18:41:00 INFO  LOS reached, pass closed
